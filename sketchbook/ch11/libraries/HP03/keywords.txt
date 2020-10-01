@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For SHT1x
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HP03	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+update	KEYWORD2
+get_temperature	KEYWORD2
+get_humidity	KEYWORD2
+read_eeprom	KEYWORD2
+test	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
